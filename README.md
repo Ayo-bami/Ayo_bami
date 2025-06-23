@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adelabu Rukayat – Ayo-bami
+# 👋 Hi, I'm Adelabu Rukayat – adelaburukayat
 
 💻 Frontend Developer | Passionate about clean code, great UI, and functional websites
 
